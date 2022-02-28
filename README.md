@@ -10,6 +10,7 @@ Make a Spotify clone. It should display the number of times each time a song has
 ## 2021 Batch Tasks (Both Calendars)
 Make a To-Do website which should be able to save some reminders and mark them as completed (Basic CRUD functionality)  
 Bonus: You can implement a login system as well but only if you have completed the original task  
-
+### How To Submit
+Submissions should be made by making a Pull Request to this Repository. You should make a separate folder with your name and put your code in it.
 
 ### Deadline for submission for both batches is Saturday, 5th March 2022
